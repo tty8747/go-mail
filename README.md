@@ -23,7 +23,7 @@ $ git clone git@github.com:tty8747/go-mail.git
     $ go env GOPATH
     ```
 
- - Change directory who contained your project:
+ - Change directory who containes your project:
     ```bash
     $ cd ...
     ```
